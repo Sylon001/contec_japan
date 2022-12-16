@@ -1,4 +1,4 @@
-[^Updated December 15, 2022]
+# Updated December 15, 2022
 
 # contec_japan
 **Contec Japan Co.**
