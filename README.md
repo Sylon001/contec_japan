@@ -7,8 +7,8 @@
 
 # Table of contents
 
-** 1. Firmware Password Collision**
+___1. Firmware Password Collision___
 
-** 2. command execution vulnerability**
+___2. command execution vulnerability___
 
-** 3. Authentication Bypass Vulnerability**
+___3. Authentication Bypass Vulnerability___
