@@ -1,8 +1,10 @@
 # contec_japan
-####Contec Japan Co.,
-######Vulnerability reproduction
-######CVE application in progress
+Contec Japan Co.
 
-####1. Firmware Password Collision
-####2. command execution vulnerability
-####3. Authentication Bypass Vulnerability
+Vulnerability reproduction
+
+CVE application in progress
+
+**1. Firmware Password Collision
+**2. command execution vulnerability
+**3. Authentication Bypass Vulnerability
